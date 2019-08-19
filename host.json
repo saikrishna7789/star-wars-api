@@ -1,8 +1,0 @@
-{
-  "http": {
-    "routePrefix": "api"
-  },
-  "swagger": {
-    "enabled": true
-  }
-}
